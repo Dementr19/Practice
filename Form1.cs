@@ -145,7 +145,7 @@ namespace ExtrapolationApp
         {
             if (GetArgs())
             {
-                Extr.Run();
+                var data = Extr.Run();
                 //string[] colname = { "X", "Y", "X2*Y" };
                 //WriteHorizontal(colname, new double[][] { extr.X, extr.Y });
                 //WriteVertical(colname, new double[][]{ extr.X, extr.Y});

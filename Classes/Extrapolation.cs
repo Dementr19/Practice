@@ -452,8 +452,9 @@ namespace ExtrapolationApp.Classes
             }
             return res;
         }
-        public void Run()
+        public OutData Run()
         {
+            OutData data = new OutData();
             if (x.Length == y.Length)
                 if (!(x.Length < 3))
                 {
@@ -475,7 +476,6 @@ namespace ExtrapolationApp.Classes
                     result.Add(7, ExponentialRegression());
                     float maxR2 = 0;
                     int regr = 0;
-                    OutData data = new OutData();
                     foreach (var pair in result)
                     {
                         Write($"{pair.Value.name} - R2 = {Math.Round(pair.Value.R2, 15)}");
@@ -495,7 +495,7 @@ namespace ExtrapolationApp.Classes
                 {
                     Write("Error: Количество элементов X и Y не может быть меньше трёх");
                 }
-            
+            return data;
         }
     }
     class OutData

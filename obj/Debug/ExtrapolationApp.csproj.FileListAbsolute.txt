@@ -1,0 +1,15 @@
+C:\Users\Сергей\source\repos\Extapolation\obj\Debug\ExtrapolationApp.csprojAssemblyReference.cache
+C:\Users\Сергей\source\repos\Extapolation\obj\Debug\ExtrapolationApp.Form1.resources
+C:\Users\Сергей\source\repos\Extapolation\obj\Debug\Extapolation.Properties.Resources.resources
+C:\Users\Сергей\source\repos\Extapolation\obj\Debug\ExtrapolationApp.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\Extapolation\obj\Debug\ExtrapolationApp.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\ExtrapolationApp\obj\Debug\ExtrapolationApp.csprojAssemblyReference.cache
+C:\Users\Сергей\source\repos\ExtrapolationApp\obj\Debug\ExtrapolationApp.Form1.resources
+C:\Users\Сергей\source\repos\ExtrapolationApp\obj\Debug\ExtrapolationApp.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\ExtrapolationApp\obj\Debug\ExtrapolationApp.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\ExtrapolationApp\bin\Debug\ExtrapolationApp.exe.config
+C:\Users\Сергей\source\repos\ExtrapolationApp\bin\Debug\ExtrapolationApp.exe
+C:\Users\Сергей\source\repos\ExtrapolationApp\bin\Debug\ExtrapolationApp.pdb
+C:\Users\Сергей\source\repos\ExtrapolationApp\obj\Debug\ExtrapolationApp.Properties.Resources.resources
+C:\Users\Сергей\source\repos\ExtrapolationApp\obj\Debug\ExtrapolationApp.exe
+C:\Users\Сергей\source\repos\ExtrapolationApp\obj\Debug\ExtrapolationApp.pdb
